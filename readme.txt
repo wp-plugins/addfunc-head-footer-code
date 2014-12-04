@@ -3,7 +3,7 @@
 
 Contributors: addfunc,average.technology,joerhoney
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7AF7P3TFKQ2C2
-Tags: head code, footer code, head, footer, head footer code, header footer code, header footer, header code, header, custom head, custom footer, custom header, Google Analytics code, Google Analytics head code, Google Analytics footer code, Google Analytics tracking code, Google Analytics conversion code, Google Analytics remarketing code
+Tags: head code, footer code, head, footer, head footer code, header footer code, header footer, header code, header, custom head, custom footer, custom header, head script, footer script, head footer script, header footer script, header script, custom head script, custom footer script, custom header script, Google Analytics code, Google Analytics head code, Google Analytics footer code, Google Analytics tracking code, Google Analytics conversion code, Google Analytics remarketing code
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.1
