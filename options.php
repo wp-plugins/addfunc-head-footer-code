@@ -47,7 +47,7 @@
               <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/buy-logo-small.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
               <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
-            <p><strong>Note</strong>: This is for&nbsp;<em>custom</em>&nbsp;needs for help, not problems with the plugin, or instructions that should already be explain in the description. If you feel there are important details omitted from the <a href="http://wordpress.org/plugins/addfunc-head-footer-code/" target="_blank">Description</a>, <a href="http://wordpress.org/plugins/addfunc-head-footer-code/installation/" target="_blank">Installation</a> steps, etc. of the plugin, please report them in the <a href="http://wordpress.org/support/plugin/addfunc-head-footer-code" target="_blank">Support forum</a>. Thanks!</p>
+            <p><strong>Note</strong>: This is for&nbsp;<em>custom</em>&nbsp;needs for help, not problems with the plugin, or instructions that should already be explained in the description. If you feel there are important details omitted from the <a href="http://wordpress.org/plugins/addfunc-head-footer-code/" target="_blank">Description</a>, <a href="http://wordpress.org/plugins/addfunc-head-footer-code/installation/" target="_blank">Installation</a> steps, etc. of the plugin, please report them in the <a href="http://wordpress.org/support/plugin/addfunc-head-footer-code" target="_blank">Support forum</a>. Thanks!</p>
       </div> <!-- #postbox-container-1 .postbox-container -->
     </div> <!-- #post-body .metabox-holder .columns-2 -->
     <br class="clear">
