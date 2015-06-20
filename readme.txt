@@ -6,7 +6,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: head code, footer code, head, footer, head footer code, add to head, add to footer, per page, header footer code, header footer, header code, header, custom head, custom footer, custom header, script, code script, head script, footer script, head footer script, header footer script, header script, custom head script, custom footer script, custom header script, head javascript, footer javascript, header javascript,  javascript code, tracking code, tracking script, tracking javascript, Google Analytics code, Google Analytics, Google Analytics head code, Google Analytics footer code, Google Analytics tracking code, Google Analytics conversion code, Google Analytics remarketing code, Google Analytics script, Google Analytics, Google Analytics head script, Google Analytics footer script, Google Analytics tracking script, Google Analytics conversion script, Google Analytics remarketing script, Google Analytics javascript
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,13 @@ The cobbler has no shoes. ...we're working on it.
 2. Add your code to these fields respectively and it will output specifically to this page, post or custom post type.
 
 == Changelog ==
+
+= 1.2 =
+19-Jun-2015
+
+*   Discovered addfunc-head-footer-code.php was saved with text encoding Western (Mac OS Roman). ~>:( Changed to Unicode (UTF-8)
+*   This was probably changed during a recent update on the plugin's tags (the tags for the WordPress Plugin Repository), so maybe two weeks ago. Previous downloads should have been UTF-8
+*   Also changed version 1.1 to UTF-8 because leaving a Mac OS Roman version in the repository would be pointless. So 1.1 and 1.2 are the same, except for the readme.txt
 
 = 1.1 =
 28-Nov-2014

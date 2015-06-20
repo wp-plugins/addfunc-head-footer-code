@@ -3,14 +3,14 @@
     Plugin Name: AddFunc Head & Footer Code
     Plugin URI:
     Description: Allows admins to add code to the &lt;head&gt; and/or &lt;footer&gt; of an individual post and/or site-wide. Ideal for scripts such as Google Analytics conversion tracking code and any other general or page-specific JavaScript.
-    Version: 1.1
+    Version: 1.2
     Author: AddFunc
     Author URI: http://profiles.wordpress.org/addfunc
     License: Public Domain
     @since 3.0.1
            ______
        _  |  ___/   _ _ __   ____
-     _| |_| |__| | | | '_ \ / __/ª
+     _| |_| |__| | | | '_ \ / __/â„¢
     |_ Add|  _/| |_| | | | | (__
       |_| |_|   \__,_|_| |_|\___\
                     by Joe Rhoney
