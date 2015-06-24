@@ -2,8 +2,8 @@
 /*
     Plugin Name: AddFunc Head & Footer Code
     Plugin URI:
-    Description: Allows admins to add code to the &lt;head&gt; and/or &lt;footer&gt; of an individual post and/or site-wide. Ideal for scripts such as Google Analytics conversion tracking code and any other general or page-specific JavaScript.
-    Version: 1.2
+    Description: Allows admins to add code to the &lt;head&gt; and/or &lt;footer&gt; of an individual post and/or site-wide. Ideal for scripts such as Google Analytics conversion tracking codes and any other general or page-specific JavaScript.
+    Version: 1.3
     Author: AddFunc
     Author URI: http://profiles.wordpress.org/addfunc
     License: Public Domain
@@ -31,7 +31,7 @@ define('AFHDFTRCD_NICK', 'Head & Footer Code');
   {
     public static function file_path($file)
     {
-      return ABSPATH.'wp-content/plugins/'.str_replace(basename( __FILE__),"",plugin_basename(__FILE__)).$file;
+      return plugin_dir_path(__FILE__).$file;
     }
     public static function register()
     {

@@ -6,7 +6,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: head code, footer code, head, footer, head footer code, add to head, add to footer, per page, header footer code, header footer, header code, header, custom head, custom footer, custom header, script, code script, head script, footer script, head footer script, header footer script, header script, custom head script, custom footer script, custom header script, head javascript, footer javascript, header javascript,  javascript code, tracking code, tracking script, tracking javascript, Google Analytics code, Google Analytics, Google Analytics head code, Google Analytics footer code, Google Analytics tracking code, Google Analytics conversion code, Google Analytics remarketing code, Google Analytics script, Google Analytics, Google Analytics head script, Google Analytics footer script, Google Analytics tracking script, Google Analytics conversion script, Google Analytics remarketing script, Google Analytics javascript
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,11 @@ The cobbler has no shoes. ...we're working on it.
 2. Add your code to these fields respectively and it will output specifically to this page, post or custom post type.
 
 == Changelog ==
+
+= 1.3 =
+23-Jun-2015
+
+*   Corrects the generated path to options.php, so that the settings page can be found even on installs where the plugins directory is not at the standard /wp-content/plugins location.
 
 = 1.2 =
 19-Jun-2015
